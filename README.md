@@ -13,7 +13,7 @@
   I'm passionate about leveraging data to tackle complex problems and enhance decision-making. My career spans from marketing to data science, equipping me with a unique blend of skills in data analysis and strategic marketing. I am now looking to apply my expertise in Data Science and Analytics to help organizations achieve their strategic goals.
 </p></ul>
 
-<h4>📫 <strong>Connect with Me</strong></h4>
+<h3>📫 <strong>Connect with Me</strong></h3>
 <ul>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ecembayindir) 
@@ -24,7 +24,7 @@
 
 <hr>
 
-<h2>💻 <strong>Projects</strong></h2>
+<h2>📈 <strong>Projects</strong></h2>
 <ul>
 The Carbon Footprint Calculator project is a user-friendly web application designed to empower individuals to assess and understand their environmental impact. https://github.com/mesutdmn/Carbon-Footprint-Calculator-App
 </ul>
