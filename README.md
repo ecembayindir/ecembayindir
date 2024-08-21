@@ -97,7 +97,7 @@ The Carbon Footprint Calculator project is a user-friendly web application desig
 <h2>🌐 <strong>Languages</strong></h2>
 <ul>
   <li><strong>English</strong>: Advanced</li>
-  <li><strong>French</strong>: Intermediate</li>
+  <li><strong>French</strong>: Upper Intermediate</li>
   <li><strong>Turkish</strong>: Native</li>
 </ul>
 
