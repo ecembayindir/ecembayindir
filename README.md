@@ -125,7 +125,7 @@ The Carbon Footprint Calculator project is a user-friendly web application desig
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ecembayindir&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </div>
-
+<hr>
 
 <h2>🎓 <strong>Education</strong></h2>
 <ul>
@@ -154,16 +154,6 @@ The Carbon Footprint Calculator project is a user-friendly web application desig
   <li><strong>French:</strong> Upper-Intermediate (B2)</li>
   <li><strong>Turkish:</strong> Native</li>
 </ul>
-
-<hr>
-
-<h2>🌐 <strong>Languages</strong></h2>
-<ul>
-  <li><strong>English</strong>: Advanced</li>
-  <li><strong>French</strong>: Upper Intermediate</li>
-  <li><strong>Turkish</strong>: Native</li>
-</ul>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ecembayindir&icon=0&color=0)](https://visitcount.itsvg.in)
